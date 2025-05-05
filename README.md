@@ -12,6 +12,6 @@ The agent's address is `test-agent://agent1qt4ymxmpqmg04ru7akyrhxkw2cy2rncqkwpt4
 
 ### Usage
 
-You can use the agent by simply asking "what's the transaction history for `your_wallet_address_here`"
+You can use the agent by simply asking "what's the balance for `your_wallet_address_here`"
 
 ![tag:innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
